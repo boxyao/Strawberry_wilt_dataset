@@ -4,7 +4,7 @@ The dataset is mentioned in Strawberry  Verticillium Wilt Detection Network Base
 
 The example of Strawberry Verticillium Wilt Dataset.
 
-![image](https://github.com/WanlgLuYao/Strawberry_wilt_dataset/edit/master/images/1.jpg)
+![image](https://raw.githubusercontent.com/WanlgLuYao/Strawberry_wilt_dataset/master/images/1.jpg)
 
 ![image](https://github.com/WanlgLuYao/Strawberry_wilt_dataset/edit/master/images/2.jpg)
 
